@@ -1,7 +1,7 @@
 import {TeamPage} from './pages/TeamPage'
 import {MatchPage} from './pages/MatchPage'
 import {BrowserRouter as Router,Route,Routes} from 'react-router-dom'
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
